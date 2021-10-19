@@ -6,7 +6,6 @@
 - 🌱 I’m currently looking to learn NodeJs, Docker & Fullstack Development
 - 🎓 My current Graduation date is set for October 2022
 - 🥅 2021 Goals: Get my Own API developed and hosted online
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
