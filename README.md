@@ -1,6 +1,6 @@
 ### Hi there, I'm Harry 👋
 
-## I'm a Apprentice Cloud DevOps Engineer, who also messes with his own projects.
+## I'm an Apprentice Cloud DevOps Engineer, who also messes with his own projects.
 
 - 🔭 I recently started working on Serverless API functions
 - 🌱 I’m currently looking to learn NodeJs, Docker & Fullstack Development
