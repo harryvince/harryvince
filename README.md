@@ -2,10 +2,10 @@
 
 ## I'm an Apprentice Cloud DevOps Engineer, who also messes with his own projects.
 
-- 🔭 I recently started working on Serverless API functions
-- 🌱 I’m currently looking to learn NodeJs, Docker & Fullstack Development
+- 🔭 I recently started working on Docker Images and Setup Automation for Environments
+- 🌱 I’m currently looking to learn Kubernetes, Terraform & Fullstack Development
 - 🎓 My current Graduation date is set for October 2022
-- 🥅 2021 Goals: Get my Own API developed and hosted online
+- 🥅 2022 Goals: Continue to expand my knowledge of DevOps technologies and continue to explore the world of Tech 
 
 ### Connect with me:
 
