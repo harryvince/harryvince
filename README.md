@@ -5,7 +5,7 @@
 - 🔭 I recently started working on Docker Images and Setup Automation for Environments
 - 🌱 I’m currently looking to learn Kubernetes, Terraform & Fullstack Development
 - 🎓 My current Graduation date is set for March 2023
-- 🥅 2022 Goals: Continue to expand my knowledge of DevOps technologies and continue to explore the world of Tech 
+- 🥅 2023 Goals: Continue to expand my knowledge of DevOps technologies and potentially move over to a Fullstack Role
 
 ### Connect with me:
 
